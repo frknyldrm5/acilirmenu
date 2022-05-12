@@ -1,0 +1,32 @@
+a{
+    text-decoration: none;
+}
+div{
+    background-color:rgba(0, 0, 0, 0.624);
+    width: 9vw;
+    height: 4vh;
+    padding-bottom: 0.1;
+    text-align: center;
+    padding-left: 1rem;
+}
+.acilir-menu ul{
+    display: none;
+}
+.acilir-menu:hover ul{
+    display: block;
+}
+ul{
+    border: 1px solid black;
+    width: 9vw;
+    margin-top: 0;
+    padding-left: 20px;
+}
+.acilir-menu{
+    width: 15vw;
+}
+a{
+color: black;
+}
+p{
+    color: wheat;
+}
